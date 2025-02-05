@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.363);
+}
+
+/*Paleta de cores
+  #D35100
+  #B14400
+  #DB5400
+  #8F3800
+  #6D2A00
+  #4B1D00
+*/
